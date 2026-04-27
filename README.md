@@ -26,6 +26,12 @@ Status
 
 Projeto iniciante – fase de aprendizado
 
+1. Criar repositório
+2. Colocar código
+3. Fazer commit
+4. Escrever README
+5. Repetir quando fizer mudanças
+
 Conecte-se comigo
 
 LinkedIn: https://www.linkedin.com/in/giselle-de-lima-daher-a94733256/
